@@ -1,0 +1,3 @@
+ASP Net - Purely Web Aspects
+
+I am glad to share a ASP.Net a diagram which provides purely web aspects for a schematic overview of how to approach the development of applications and web services based on Microsoft technologies.
