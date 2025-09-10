@@ -2,7 +2,7 @@
 
 Document collection covering different aspects for, back-end and front-end software development and computer systems related management tasks.
 
-    • Net
+    • .Net
     • .NET Core
     • Data Base
     • Design Patterns
