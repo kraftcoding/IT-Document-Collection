@@ -2,6 +2,8 @@
 
 Document collection covering different aspects for, back-end and front-end software development and computer systems related management tasks.
 
+    • OPC UA
+    • Angular
     • .Net
     • .Net Framework
     • .NET Core
