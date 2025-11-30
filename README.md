@@ -1,6 +1,6 @@
 # IT Document Collection
 
-Document collection covering different aspects for, back-end and front-end software development and computer systems related management tasks.
+Document collection covering different aspects related to software development and computer systems management.
 
     • OPC UA
     • Angular
@@ -13,3 +13,5 @@ Document collection covering different aspects for, back-end and front-end softw
     • Linux
     • React
     • Windows
+    • Windows
+    • Cybersecurity
