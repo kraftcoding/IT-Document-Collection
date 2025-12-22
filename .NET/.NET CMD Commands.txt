@@ -1,4 +1,0 @@
-dotnet --info
-dotnet --list-sdks
-dotnet --list-runtimes
-NuGet\Install-Package SimpleInjector.MVC3 -Version 5.5.0
